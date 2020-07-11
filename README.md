@@ -6,6 +6,8 @@
 <br>
 <strong>Problem 766 A. Mahmoud and Longest Uncommon Subsequence: </strong> https://codeforces.com/problemset/problem/766/A 
 <br>
+<strong>Problem 1293 B. JOE is on TV!: </strong> https://codeforces.com/problemset/problem/1293/B 
+<br>
 <strong>Problem 1374 C. Move Brackets: </strong> https://codeforces.com/problemset/problem/1374/C 
 <br>
 
