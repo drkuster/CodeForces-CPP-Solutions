@@ -8,6 +8,8 @@
 <br>
 <strong>Problem 1293 B. JOE is on TV!: </strong> https://codeforces.com/problemset/problem/1293/B 
 <br>
+<strong>Problem 1358 B. Maria Breaks the Self-isolation: </strong> https://codeforces.com/problemset/problem/1358/B 
+<br>
 <strong>Problem 1374 C. Move Brackets: </strong> https://codeforces.com/problemset/problem/1374/C 
 <br>
 
