@@ -11,8 +11,7 @@ int main()
     for (int i = 0; i < t; i++)
     {
         moves = 0;
-        cin >> n;
-        cin >> s;
+        cin >> n; cin >> s;
         while (s.find("()") != string::npos)
         {
             pos = s.find("()");
