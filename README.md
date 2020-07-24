@@ -6,6 +6,8 @@
 <br>
 <strong>Problem 766 A. Mahmoud and Longest Uncommon Subsequence: </strong> https://codeforces.com/problemset/problem/766/A 
 <br>
+<strong>Problem 1197 B. Pillars: </strong> https://codeforces.com/problemset/problem/1197/B 
+<br>
 <strong>Problem 1215 A. Yellow Cards: </strong> https://codeforces.com/problemset/problem/1215/A 
 <br>
 <strong>Problem 1265 A. Beautiful String: </strong> https://codeforces.com/problemset/problem/1265/A 
