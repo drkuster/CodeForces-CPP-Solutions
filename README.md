@@ -1,4 +1,4 @@
-# CodeForces C++ Solutions
+s# CodeForces C++ Solutions
  
 # Difficulty 1000
 
@@ -9,6 +9,8 @@
 <strong>Problem 1197 B. Pillars: </strong> https://codeforces.com/problemset/problem/1197/B 
 <br>
 <strong>Problem 1215 A. Yellow Cards: </strong> https://codeforces.com/problemset/problem/1215/A 
+<br>
+<strong>Problem 1230 B. Ania and Minimizing: </strong> https://codeforces.com/problemset/problem/1230/B 
 <br>
 <strong>Problem 1265 A. Beautiful String: </strong> https://codeforces.com/problemset/problem/1265/A 
 <br>
