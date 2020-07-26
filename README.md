@@ -49,6 +49,8 @@ s# CodeForces C++ Solutions
 <br>
 <strong>Problem 991 B. Getting an A: </strong> https://codeforces.com/problemset/problem/991/B
 <br>
+<strong>Problem 1132 B. Discounts: </strong> https://codeforces.com/problemset/problem/1132/B
+<br>
 <strong>Problem 1175 A. From Hero to Zero: </strong> https://codeforces.com/problemset/problem/1175/A
 <br>
 <strong>Problem 1248 B. Grow The Tree: </strong> https://codeforces.com/problemset/problem/1248/B
