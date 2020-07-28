@@ -1,4 +1,4 @@
-s# CodeForces C++ Solutions
+# CodeForces C++ Solutions
  
 # Difficulty 1000
 
