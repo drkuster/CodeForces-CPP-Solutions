@@ -8,6 +8,8 @@
 <br>
 <strong>Problem 1197 B. Pillars: </strong> https://codeforces.com/problemset/problem/1197/B 
 <br>
+<strong>Problem 1203 A. Circle of Students: </strong> https://codeforces.com/problemset/problem/1203/A 
+<br>
 <strong>Problem 1215 A. Yellow Cards: </strong> https://codeforces.com/problemset/problem/1215/A 
 <br>
 <strong>Problem 1230 B. Ania and Minimizing: </strong> https://codeforces.com/problemset/problem/1230/B 
