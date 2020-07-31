@@ -6,6 +6,8 @@
 <br>
 <strong>Problem 766 A. Mahmoud and Longest Uncommon Subsequence: </strong> https://codeforces.com/problemset/problem/766/A 
 <br>
+<strong>Problem 1033 A. King Escape: </strong> https://codeforces.com/problemset/problem/1033/A 
+<br>
 <strong>Problem 1197 B. Pillars: </strong> https://codeforces.com/problemset/problem/1197/B 
 <br>
 <strong>Problem 1203 A. Circle of Students: </strong> https://codeforces.com/problemset/problem/1203/A 
