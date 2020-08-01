@@ -1,5 +1,12 @@
 # CodeForces C++ Solutions
  
+# Difficulty 1100
+ 
+ <strong>Problem 1333 B. Kind Anton: </strong> https://codeforces.com/problemset/problem/1333/B 
+ <br>
+ 
+ ----------------------------------------------------------------------------------------------------------------
+ 
 # Difficulty 1000
 
 <strong>Problem 385 A. Bear and Raspberry: </strong> https://codeforces.com/problemset/problem/385/A 
