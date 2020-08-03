@@ -4,6 +4,8 @@
  
  <strong>Problem 1333 B. Kind Anton: </strong> https://codeforces.com/problemset/problem/1333/B 
  <br>
+ <strong>Problem 1360 C. Similar Pairs: </strong> https://codeforces.com/problemset/problem/1333/B 
+ <br>
  
  ----------------------------------------------------------------------------------------------------------------
  
