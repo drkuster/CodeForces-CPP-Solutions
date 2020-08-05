@@ -15,7 +15,6 @@ int main()
             if (s.at(i) == 'L') lCount++;
             else
             {
-                // cout << "L COUNT: " << lCount << endl;
                 if (lCount > max) max = lCount;
                 lCount = 0;
             }
@@ -25,3 +24,7 @@ int main()
     }
     return 0;
 }
+
+
+
+
