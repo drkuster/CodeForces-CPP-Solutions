@@ -2,6 +2,8 @@
  
 # Difficulty 1100
 
+<strong>Problem 1255 B. Fridge Lockers: </strong> https://codeforces.com/problemset/problem/1255/B 
+<br>
 <strong>Problem 1324 C. Frog Jumps: </strong> https://codeforces.com/problemset/problem/1324/C 
 <br>
 <strong>Problem 1333 B. Kind Anton: </strong> https://codeforces.com/problemset/problem/1333/B 
