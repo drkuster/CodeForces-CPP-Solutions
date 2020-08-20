@@ -1,7 +1,9 @@
-# CodeForces C++ Solutions
+cd # CodeForces C++ Solutions
  
 # Difficulty 1100
 
+<strong>Problem 845 A. Chess Tourney: </strong> https://codeforces.com/problemset/problem/845/A 
+<br>
 <strong>Problem 1105 A. Salem and Sticks: </strong> https://codeforces.com/problemset/problem/1105/A 
 <br>
 <strong>Problem 1255 B. Fridge Lockers: </strong> https://codeforces.com/problemset/problem/1255/B 
