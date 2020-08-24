@@ -1,5 +1,3 @@
-cd # CodeForces C++ Solutions
- 
 # Difficulty 1100
 
 <strong>Problem 845 A. Chess Tourney: </strong> https://codeforces.com/problemset/problem/845/A 
