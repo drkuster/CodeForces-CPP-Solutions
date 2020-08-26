@@ -4,6 +4,8 @@
 <br>
 <strong>Problem 884 B. Japanese Crosswords Strike Back: </strong> https://codeforces.com/problemset/problem/884/B 
 <br>
+<strong>Problem 985 A. Chess Placing: </strong> https://codeforces.com/problemset/problem/985/A 
+<br>
 <strong>Problem 1105 A. Salem and Sticks: </strong> https://codeforces.com/problemset/problem/1105/A 
 <br>
 <strong>Problem 1255 B. Fridge Lockers: </strong> https://codeforces.com/problemset/problem/1255/B 
