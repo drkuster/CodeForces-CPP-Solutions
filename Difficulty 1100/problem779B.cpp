@@ -26,13 +26,10 @@ int main()
     string n = ""; int k = 0;
     cin >> n; cin >> k;
     int min = countHops(n, k, 0);
-    if (min != -1)
-    {
-        cout << min << endl;
-    }
-    else
-    {
-        cout << n.length() - 1 << endl;
-    }
+    if (min != -1) cout << min << endl;
+    else cout << n.length() - 1 << endl;
     return 0;
 }
+
+
+
