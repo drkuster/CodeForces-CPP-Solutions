@@ -8,6 +8,8 @@
 <br>
 <strong>Problem 985 A. Chess Placing: </strong> https://codeforces.com/problemset/problem/985/A 
 <br>
+<strong>Problem 1042 A. Benches: </strong> https://codeforces.com/problemset/problem/1042/A 
+<br>
 <strong>Problem 1105 A. Salem and Sticks: </strong> https://codeforces.com/problemset/problem/1105/A 
 <br>
 <strong>Problem 1255 B. Fridge Lockers: </strong> https://codeforces.com/problemset/problem/1255/B 
