@@ -1,5 +1,7 @@
 # Difficulty 1100
 
+<strong>Problem 755 B. PolandBall and Game: </strong> https://codeforces.com/problemset/problem/755/B 
+<br>
 <strong>Problem 779 B. Weird Rounding: </strong> https://codeforces.com/problemset/problem/779/B 
 <br>
 <strong>Problem 845 A. Chess Tourney: </strong> https://codeforces.com/problemset/problem/845/A 
